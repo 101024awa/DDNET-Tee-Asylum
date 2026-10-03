@@ -1,0 +1,487 @@
+[2026-10-03 07:08:54][server]: starting...
+[2026-10-03 07:08:54][datafile]: loading. filename='maps/huntern_msc.map'
+[2026-10-03 07:08:54][datafile]: allocsize=35576
+[2026-10-03 07:08:54][datafile]: readsize=34000
+[2026-10-03 07:08:54][datafile]: swaplen=34020
+[2026-10-03 07:08:54][datafile]: item_size=31092
+[2026-10-03 07:08:54][datafile]: loading done. datafile='maps/huntern_msc.map'
+[2026-10-03 07:08:54][server]: maps/huntern_msc.map sha256 is 560334eca016b8bf3ccf267b87c348801e42e1a2649bcf973040bab518ef1b4a
+[2026-10-03 07:08:54][sixup]: maps7/huntern_msc.map sha256 is 560334eca016b8bf3ccf267b87c348801e42e1a2649bcf973040bab518ef1b4a
+[2026-10-03 07:08:54][socket]: Setting TOS on ipv6 failed: 2
+[2026-10-03 07:08:54][server]: server name is 'Tee Asylum+ | 24装备 / 6模式'
+[2026-10-03 07:08:54][datafile]: loading data index=135 size=16423 uncompressed=989248
+[2026-10-03 07:08:54][datafile]: loading data index=137 size=3528 uncompressed=1483872
+[2026-10-03 07:08:54][console]: executing 'maps/huntern_msc.map.cfg'
+[2026-10-03 07:08:54][console]: executing 'room_config/modes/asylum.rcfg'
+[2026-10-03 07:08:54][instance 0]: executing 'room_config/modes/asylum.rcfg'
+[2026-10-03 07:08:54][console]: executing 'room_config/asylum-common.rcfg'
+[2026-10-03 07:08:54][instance 0]: executing 'room_config/asylum-common.rcfg'
+[2026-10-03 07:08:54][console]: executing 'room_config/lobby.rcfg'
+[2026-10-03 07:08:54][instance 0]: executing 'room_config/lobby.rcfg'
+[2026-10-03 07:08:54][team]: game controller 0 is created
+[2026-10-03 07:08:54][censorlist]: failed to open 'censorlist.txt'
+[2026-10-03 07:08:54][server]: version 0.6 626fce9a778df4d4
+[2026-10-03 07:08:54][server]: +-------------------------+
+[2026-10-03 07:08:54][server]: | rcon password: 'NAUAkN' |
+[2026-10-03 07:08:54][server]: +-------------------------+
+[2026-10-03 07:08:55][game]: world cleared, ddrteam='0'
+[2026-10-03 07:09:53][server]: player is ready. ClientID=0 addr=<{26.247.50.255:59026}> secure=yes
+[2026-10-03 07:09:56][server]: player has entered the game. ClientID=0 addr=<{26.247.50.255:59026}> sixup=0
+[2026-10-03 07:09:56][ddnet]: cid=0 version=20000
+[2026-10-03 07:09:56][game]: team size increased to 1, team='0', ddrteam='0'
+[2026-10-03 07:09:56][game]: ddrteam_join player='0:101024' team=0 ddrteam='0'
+[2026-10-03 07:09:56][chat]: *** '101024' entered and joined the game in Tee Asylum FFA room 0
+[2026-10-03 07:09:56][game]: team_join player='0:101024' team=0
+[2026-10-03 07:09:56][asylum]: loadout cid=0 mode=0 items=14,7,21
+[2026-10-03 07:09:58][chat-command]: 0 used /timeout abN8Yc8YTAN2aU6V
+[2026-10-03 07:10:15][asylum]: loadout cid=0 mode=0 items=0,4,22
+[2026-10-03 07:10:27][game]: kill killer='0:101024' victim='0:101024' weapon=-1 special=0
+[2026-10-03 07:10:29][asylum]: loadout cid=0 mode=0 items=15,4,11
+[2026-10-03 07:10:45][game]: kill killer='0:101024' victim='0:101024' weapon=-1 special=0
+[2026-10-03 07:10:47][asylum]: loadout cid=0 mode=0 items=12,19,23
+[2026-10-03 07:10:59][server]: player is ready. ClientID=1 addr=<{26.247.50.255:59028}> secure=yes
+[2026-10-03 07:10:59][server]: player has entered the game. ClientID=1 addr=<{26.247.50.255:59028}> sixup=0
+[2026-10-03 07:10:59][ddnet]: cid=1 version=20000
+[2026-10-03 07:10:59][game]: team size increased to 2, team='0', ddrteam='0'
+[2026-10-03 07:10:59][game]: ddrteam_join player='1:420101' team=0 ddrteam='0'
+[2026-10-03 07:10:59][chat]: *** '420101' entered and joined the game in Tee Asylum FFA room 0
+[2026-10-03 07:10:59][game]: start match type='Tee Asylum FFA' teamplay='0' ddrteam='0'
+[2026-10-03 07:10:59][game]: team_join player='1:420101' team=0
+[2026-10-03 07:10:59][game]: world cleared, ddrteam='0'
+[2026-10-03 07:11:00][asylum]: loadout cid=0 mode=0 items=0,17,21
+[2026-10-03 07:11:00][asylum]: loadout cid=1 mode=0 items=12,5,21
+[2026-10-03 07:11:01][chat-command]: 1 used /timeout gSDDjbnff98DmWo9
+[2026-10-03 07:11:18][game]: kill killer='0:101024' victim='1:420101' weapon=0 special=0
+[2026-10-03 07:11:20][asylum]: loadout cid=1 mode=0 items=15,3,22
+[2026-10-03 07:11:57][game]: kill killer='1:420101' victim='0:101024' weapon=0 special=0
+[2026-10-03 07:11:59][asylum]: loadout cid=0 mode=0 items=15,4,21
+[2026-10-03 07:12:06][asylum]: loadout cid=0 mode=0 items=1,4,11
+[2026-10-03 07:12:15][game]: kill killer='0:101024' victim='1:420101' weapon=3 special=0
+[2026-10-03 07:12:17][asylum]: loadout cid=1 mode=0 items=14,5,20
+[2026-10-03 07:12:40][game]: kill killer='1:420101' victim='0:101024' weapon=0 special=0
+[2026-10-03 07:12:42][asylum]: loadout cid=0 mode=0 items=0,17,9
+[2026-10-03 07:13:06][game]: kill killer='0:101024' victim='1:420101' weapon=0 special=0
+[2026-10-03 07:13:08][asylum]: loadout cid=1 mode=0 items=1,17,9
+[2026-10-03 07:13:10][asylum]: 00 平底锅 / Pan — 4伤害 / 中速挥击
+[2026-10-03 07:13:10][instance 0]: 00 平底锅 / Pan — 4伤害 / 中速挥击
+[2026-10-03 07:13:10][asylum]: 01 小刀 / Knife — 2伤害 / 快速连击
+[2026-10-03 07:13:10][instance 0]: 01 小刀 / Knife — 2伤害 / 快速连击
+[2026-10-03 07:13:10][asylum]: 02 球棒 / Bat — 3伤害 / 强力击退
+[2026-10-03 07:13:10][instance 0]: 02 球棒 / Bat — 3伤害 / 强力击退
+[2026-10-03 07:13:10][asylum]: 03 左轮 / Revolver — 3伤害 / 精准单发
+[2026-10-03 07:13:10][instance 0]: 03 左轮 / Revolver — 3伤害 / 精准单发
+[2026-10-03 07:13:10][asylum]: 04 冲锋枪 / SMG — 1伤害 / 高速连射
+[2026-10-03 07:13:10][instance 0]: 04 冲锋枪 / SMG — 1伤害 / 高速连射
+[2026-10-03 07:13:10][asylum]: 05 霰弹枪 / Shotgun — 5发散射 / 每发1伤害
+[2026-10-03 07:13:10][instance 0]: 05 霰弹枪 / Shotgun — 5发散射 / 每发1伤害
+[2026-10-03 07:13:10][asylum]: 06 电磁炮 / Railgun — 7伤害 / 慢速激光
+[2026-10-03 07:13:10][instance 0]: 06 电磁炮 / Railgun — 7伤害 / 慢速激光
+[2026-10-03 07:13:10][asylum]: 07 榴弹炮 / Launcher — 爆炸最高6伤害 / 可自伤
+[2026-10-03 07:13:10][instance 0]: 07 榴弹炮 / Launcher — 爆炸最高6伤害 / 可自伤
+[2026-10-03 07:13:10][asylum]: 08 急救包 / Medkit — 回复4生命 / 冷却8秒
+[2026-10-03 07:13:10][instance 0]: 08 急救包 / Medkit — 回复4生命 / 冷却8秒
+[2026-10-03 07:13:10][asylum]: 09 冲刺汽水 / Dash — 朝准星冲刺 / 冷却2.5秒
+[2026-10-03 07:13:10][instance 0]: 09 冲刺汽水 / Dash — 朝准星冲刺 / 冷却2.5秒
+[2026-10-03 07:13:10][asylum]: 10 冲击波 / Shockwave — 周围2伤害+击退 / 冷却4秒
+[2026-10-03 07:13:10][instance 0]: 10 冲击波 / Shockwave — 周围2伤害+击退 / 冷却4秒
+[2026-10-03 07:13:10][asylum]: 11 破片雷 / Cluster — 爆炸+10枚碎片 / 冷却3秒
+[2026-10-03 07:13:10][instance 0]: 11 破片雷 / Cluster — 爆炸+10枚碎片 / 冷却3秒
+[2026-10-03 07:13:10][asylum]: 12 巨大汤勺 / Spoon — 3伤害 / 大范围强击退
+[2026-10-03 07:13:10][instance 0]: 12 巨大汤勺 / Spoon — 3伤害 / 大范围强击退
+[2026-10-03 07:13:10][asylum]: 13 黑心剑 / Darkheart — 3伤害 / 命中敌人回复1生命
+[2026-10-03 07:13:10][instance 0]: 13 黑心剑 / Darkheart — 3伤害 / 命中敌人回复1生命
+[2026-10-03 07:13:10][asylum]: 14 能量剑 / Energy sword — 4伤害 / 快速斩击
+[2026-10-03 07:13:10][instance 0]: 14 能量剑 / Energy sword — 4伤害 / 快速斩击
+[2026-10-03 07:13:10][asylum]: 15 垂死平底锅 / Dying pan — 4伤害 / 向下重击
+[2026-10-03 07:13:10][instance 0]: 15 垂死平底锅 / Dying pan — 4伤害 / 向下重击
+[2026-10-03 07:13:10][asylum]: 16 弩 / Crossbow — 8伤害 / 远距离最高10伤害
+[2026-10-03 07:13:10][instance 0]: 16 弩 / Crossbow — 8伤害 / 远距离最高10伤害
+[2026-10-03 07:13:10][asylum]: 17 冰冻射线 / Freeze ray — 1伤害 / 冻结1秒 / 冷却3秒
+[2026-10-03 07:13:10][instance 0]: 17 冰冻射线 / Freeze ray — 1伤害 / 冻结1秒 / 冷却3秒
+[2026-10-03 07:13:10][asylum]: 18 英式火箭筒 / British bazooka — 随机软弹2伤或茶杯爆炸5伤
+[2026-10-03 07:13:10][instance 0]: 18 英式火箭筒 / British bazooka — 随机软弹2伤或茶杯爆炸5伤
+[2026-10-03 07:13:10][asylum]: 19 美国 / America — 10伤害激光 / 巨大后坐力
+[2026-10-03 07:13:10][instance 0]: 19 美国 / America — 10伤害激光 / 巨大后坐力
+[2026-10-03 07:13:10][asylum]: 20 神圣斗篷 / Holy mantle — 抵挡下次攻击 / 20秒充能
+[2026-10-03 07:13:10][instance 0]: 20 神圣斗篷 / Holy mantle — 抵挡下次攻击 / 20秒充能
+[2026-10-03 07:13:10][asylum]: 21 重抽骰子 / Re-roll dice — 原地重抽三件装备 / 不回血
+[2026-10-03 07:13:10][instance 0]: 21 重抽骰子 / Re-roll dice — 原地重抽三件装备 / 不回血
+[2026-10-03 07:13:10][asylum]: 22 滑翔伞 / Parasol — 持有时减缓下落 / 使用上升
+[2026-10-03 07:13:10][instance 0]: 22 滑翔伞 / Parasol — 持有时减缓下落 / 使用上升
+[2026-10-03 07:13:10][asylum]: 23 连斩 / Cleave — 前方4伤害 / 10秒冷却
+[2026-10-03 07:13:10][instance 0]: 23 连斩 / Cleave — 前方4伤害 / 10秒冷却
+[2026-10-03 07:13:55][game]: kill killer='0:101024' victim='0:101024' weapon=-3 special=0
+[2026-10-03 07:13:55][game]: kill killer='1:420101' victim='1:420101' weapon=-3 special=0
+[2026-10-03 07:13:55][team]: game controller 0 is deleted
+[2026-10-03 07:13:55][console]: executing 'room_config/modes/asylum_zs.rcfg'
+[2026-10-03 07:13:55][instance 0]: executing 'room_config/modes/asylum_zs.rcfg'
+[2026-10-03 07:13:55][console]: executing 'room_config/asylum-common.rcfg'
+[2026-10-03 07:13:55][instance 0]: executing 'room_config/asylum-common.rcfg'
+[2026-10-03 07:13:55][console]: executing 'room_config/lobby.rcfg'
+[2026-10-03 07:13:55][instance 0]: executing 'room_config/lobby.rcfg'
+[2026-10-03 07:13:55][team]: game controller 0 is created
+[2026-10-03 07:13:55][game]: team size increased to 1, team='0', ddrteam='0'
+[2026-10-03 07:13:55][game]: ddrteam_join player='0:101024' team=0 ddrteam='0'
+[2026-10-03 07:13:55][game]: team size increased to 2, team='0', ddrteam='0'
+[2026-10-03 07:13:55][game]: ddrteam_join player='1:420101' team=0 ddrteam='0'
+[2026-10-03 07:13:55][game]: start match type='Tee Asylum ZS' teamplay='0' ddrteam='0'
+[2026-10-03 07:13:55][game]: start match type='Tee Asylum ZS' teamplay='0' ddrteam='0'
+[2026-10-03 07:13:55][game]: world cleared, ddrteam='0'
+[2026-10-03 07:13:55][asylum]: loadout cid=0 mode=4 items=1,9,23
+[2026-10-03 07:13:55][asylum]: loadout cid=1 mode=4 items=14,3,20
+[2026-10-03 07:14:12][game]: kill killer='0:101024' victim='1:420101' weapon=0 special=0
+[2026-10-03 07:14:12][asylum]: [Tee Asylum ZS] 感染者获胜！所有生还者均已感染或退出
+[2026-10-03 07:14:19][game]: start match type='Tee Asylum ZS' teamplay='0' ddrteam='0'
+[2026-10-03 07:14:19][game]: world cleared, ddrteam='0'
+[2026-10-03 07:14:20][asylum]: loadout cid=0 mode=4 items=0,3,10
+[2026-10-03 07:14:20][asylum]: loadout cid=1 mode=4 items=1,9,23
+[2026-10-03 07:14:30][game]: kill killer='0:101024' victim='0:101024' weapon=-3 special=0
+[2026-10-03 07:14:30][game]: kill killer='1:420101' victim='1:420101' weapon=-3 special=0
+[2026-10-03 07:14:30][team]: game controller 0 is deleted
+[2026-10-03 07:14:30][console]: executing 'room_config/modes/asylum_jgn.rcfg'
+[2026-10-03 07:14:30][instance 0]: executing 'room_config/modes/asylum_jgn.rcfg'
+[2026-10-03 07:14:30][console]: executing 'room_config/asylum-common.rcfg'
+[2026-10-03 07:14:30][instance 0]: executing 'room_config/asylum-common.rcfg'
+[2026-10-03 07:14:30][console]: executing 'room_config/lobby.rcfg'
+[2026-10-03 07:14:30][instance 0]: executing 'room_config/lobby.rcfg'
+[2026-10-03 07:14:30][team]: game controller 0 is created
+[2026-10-03 07:14:30][game]: team size increased to 1, team='0', ddrteam='0'
+[2026-10-03 07:14:30][game]: ddrteam_join player='0:101024' team=0 ddrteam='0'
+[2026-10-03 07:14:30][game]: team size increased to 2, team='0', ddrteam='0'
+[2026-10-03 07:14:30][game]: ddrteam_join player='1:420101' team=0 ddrteam='0'
+[2026-10-03 07:14:30][game]: start match type='Tee Asylum JGN' teamplay='0' ddrteam='0'
+[2026-10-03 07:14:30][game]: start match type='Tee Asylum JGN' teamplay='0' ddrteam='0'
+[2026-10-03 07:14:30][game]: world cleared, ddrteam='0'
+[2026-10-03 07:14:31][asylum]: loadout cid=0 mode=5 items=1,7,22
+[2026-10-03 07:14:31][asylum]: loadout cid=1 mode=5 items=15,18,20
+[2026-10-03 07:15:11][game]: kill killer='1:420101' victim='0:101024' weapon=3 special=0
+[2026-10-03 07:15:13][asylum]: loadout cid=0 mode=5 items=13,16,8
+[2026-10-03 07:15:26][game]: kill killer='0:101024' victim='1:420101' weapon=1 special=0
+[2026-10-03 07:15:26][asylum]: [Tee Asylum JGN] 挑战者获胜！巨人已被击败或退出。
+[2026-10-03 07:15:33][game]: start match type='Tee Asylum JGN' teamplay='0' ddrteam='0'
+[2026-10-03 07:15:33][game]: world cleared, ddrteam='0'
+[2026-10-03 07:15:33][asylum]: loadout cid=0 mode=5 items=15,18,20
+[2026-10-03 07:15:33][asylum]: loadout cid=1 mode=5 items=1,18,11
+[2026-10-03 07:15:39][game]: kill killer='0:101024' victim='0:101024' weapon=-3 special=0
+[2026-10-03 07:15:39][game]: kill killer='1:420101' victim='1:420101' weapon=-3 special=0
+[2026-10-03 07:15:39][team]: game controller 0 is deleted
+[2026-10-03 07:15:39][console]: executing 'room_config/modes/asylum_elim.rcfg'
+[2026-10-03 07:15:39][instance 0]: executing 'room_config/modes/asylum_elim.rcfg'
+[2026-10-03 07:15:39][console]: executing 'room_config/asylum-common.rcfg'
+[2026-10-03 07:15:39][instance 0]: executing 'room_config/asylum-common.rcfg'
+[2026-10-03 07:15:39][console]: executing 'room_config/lobby.rcfg'
+[2026-10-03 07:15:39][instance 0]: executing 'room_config/lobby.rcfg'
+[2026-10-03 07:15:39][team]: game controller 0 is created
+[2026-10-03 07:15:39][game]: team size increased to 1, team='0', ddrteam='0'
+[2026-10-03 07:15:39][game]: ddrteam_join player='0:101024' team=0 ddrteam='0'
+[2026-10-03 07:15:39][game]: team size increased to 2, team='0', ddrteam='0'
+[2026-10-03 07:15:39][game]: ddrteam_join player='1:420101' team=0 ddrteam='0'
+[2026-10-03 07:15:39][game]: start match type='Tee Asylum ELIM' teamplay='0' ddrteam='0'
+[2026-10-03 07:15:39][game]: start match type='Tee Asylum ELIM' teamplay='0' ddrteam='0'
+[2026-10-03 07:15:39][game]: world cleared, ddrteam='0'
+[2026-10-03 07:15:40][asylum]: loadout cid=0 mode=3 items=0,18,10
+[2026-10-03 07:15:40][asylum]: loadout cid=1 mode=3 items=13,5,8
+[2026-10-03 07:15:59][console]: No such command: login.
+[2026-10-03 07:15:59][chat-command]: 1 used /login 101024 1111
+[2026-10-03 07:16:00][console]: No such command: use_skill.
+[2026-10-03 07:16:00][chat-command]: 1 used /use_skill 6
+[2026-10-03 07:16:15][game]: kill killer='1:420101' victim='0:101024' weapon=0 special=0
+[2026-10-03 07:16:17][asylum]: loadout cid=0 mode=3 items=0,18,20
+[2026-10-03 07:16:40][asylum]: Tee Asylum ELIM | 剩余 120s | 三命淘汰：每人3条命，击杀增加2点生命上限（最高20）；超时安全区收缩，最后存活者获胜。
+[2026-10-03 07:16:40][instance 0]: Tee Asylum ELIM | 剩余 120s | 三命淘汰：每人3条命，击杀增加2点生命上限（最高20）；超时安全区收缩，最后存活者获胜。
+[2026-10-03 07:16:41][asylum]: 00 平底锅 / Pan — 4伤害 / 中速挥击
+[2026-10-03 07:16:41][instance 0]: 00 平底锅 / Pan — 4伤害 / 中速挥击
+[2026-10-03 07:16:41][asylum]: 01 小刀 / Knife — 2伤害 / 快速连击
+[2026-10-03 07:16:41][instance 0]: 01 小刀 / Knife — 2伤害 / 快速连击
+[2026-10-03 07:16:41][asylum]: 02 球棒 / Bat — 3伤害 / 强力击退
+[2026-10-03 07:16:41][instance 0]: 02 球棒 / Bat — 3伤害 / 强力击退
+[2026-10-03 07:16:41][asylum]: 03 左轮 / Revolver — 3伤害 / 精准单发
+[2026-10-03 07:16:41][instance 0]: 03 左轮 / Revolver — 3伤害 / 精准单发
+[2026-10-03 07:16:41][asylum]: 04 冲锋枪 / SMG — 1伤害 / 高速连射
+[2026-10-03 07:16:41][instance 0]: 04 冲锋枪 / SMG — 1伤害 / 高速连射
+[2026-10-03 07:16:41][asylum]: 05 霰弹枪 / Shotgun — 5发散射 / 每发1伤害
+[2026-10-03 07:16:41][instance 0]: 05 霰弹枪 / Shotgun — 5发散射 / 每发1伤害
+[2026-10-03 07:16:41][asylum]: 06 电磁炮 / Railgun — 7伤害 / 慢速激光
+[2026-10-03 07:16:41][instance 0]: 06 电磁炮 / Railgun — 7伤害 / 慢速激光
+[2026-10-03 07:16:41][asylum]: 07 榴弹炮 / Launcher — 爆炸最高6伤害 / 可自伤
+[2026-10-03 07:16:41][instance 0]: 07 榴弹炮 / Launcher — 爆炸最高6伤害 / 可自伤
+[2026-10-03 07:16:41][asylum]: 08 急救包 / Medkit — 回复4生命 / 冷却8秒
+[2026-10-03 07:16:41][instance 0]: 08 急救包 / Medkit — 回复4生命 / 冷却8秒
+[2026-10-03 07:16:41][asylum]: 09 冲刺汽水 / Dash — 朝准星冲刺 / 冷却2.5秒
+[2026-10-03 07:16:41][instance 0]: 09 冲刺汽水 / Dash — 朝准星冲刺 / 冷却2.5秒
+[2026-10-03 07:16:41][asylum]: 10 冲击波 / Shockwave — 周围2伤害+击退 / 冷却4秒
+[2026-10-03 07:16:41][instance 0]: 10 冲击波 / Shockwave — 周围2伤害+击退 / 冷却4秒
+[2026-10-03 07:16:41][asylum]: 11 破片雷 / Cluster — 爆炸+10枚碎片 / 冷却3秒
+[2026-10-03 07:16:41][instance 0]: 11 破片雷 / Cluster — 爆炸+10枚碎片 / 冷却3秒
+[2026-10-03 07:16:41][asylum]: 12 巨大汤勺 / Spoon — 3伤害 / 大范围强击退
+[2026-10-03 07:16:41][instance 0]: 12 巨大汤勺 / Spoon — 3伤害 / 大范围强击退
+[2026-10-03 07:16:41][asylum]: 13 黑心剑 / Darkheart — 3伤害 / 命中敌人回复1生命
+[2026-10-03 07:16:41][instance 0]: 13 黑心剑 / Darkheart — 3伤害 / 命中敌人回复1生命
+[2026-10-03 07:16:41][asylum]: 14 能量剑 / Energy sword — 4伤害 / 快速斩击
+[2026-10-03 07:16:41][instance 0]: 14 能量剑 / Energy sword — 4伤害 / 快速斩击
+[2026-10-03 07:16:41][asylum]: 15 垂死平底锅 / Dying pan — 4伤害 / 向下重击
+[2026-10-03 07:16:41][instance 0]: 15 垂死平底锅 / Dying pan — 4伤害 / 向下重击
+[2026-10-03 07:16:41][asylum]: 16 弩 / Crossbow — 8伤害 / 远距离最高10伤害
+[2026-10-03 07:16:41][instance 0]: 16 弩 / Crossbow — 8伤害 / 远距离最高10伤害
+[2026-10-03 07:16:41][asylum]: 17 冰冻射线 / Freeze ray — 1伤害 / 冻结1秒 / 冷却3秒
+[2026-10-03 07:16:41][instance 0]: 17 冰冻射线 / Freeze ray — 1伤害 / 冻结1秒 / 冷却3秒
+[2026-10-03 07:16:41][asylum]: 18 英式火箭筒 / British bazooka — 随机软弹2伤或茶杯爆炸5伤
+[2026-10-03 07:16:41][instance 0]: 18 英式火箭筒 / British bazooka — 随机软弹2伤或茶杯爆炸5伤
+[2026-10-03 07:16:41][asylum]: 19 美国 / America — 10伤害激光 / 巨大后坐力
+[2026-10-03 07:16:41][instance 0]: 19 美国 / America — 10伤害激光 / 巨大后坐力
+[2026-10-03 07:16:41][asylum]: 20 神圣斗篷 / Holy mantle — 抵挡下次攻击 / 20秒充能
+[2026-10-03 07:16:41][instance 0]: 20 神圣斗篷 / Holy mantle — 抵挡下次攻击 / 20秒充能
+[2026-10-03 07:16:41][asylum]: 21 重抽骰子 / Re-roll dice — 原地重抽三件装备 / 不回血
+[2026-10-03 07:16:41][instance 0]: 21 重抽骰子 / Re-roll dice — 原地重抽三件装备 / 不回血
+[2026-10-03 07:16:41][asylum]: 22 滑翔伞 / Parasol — 持有时减缓下落 / 使用上升
+[2026-10-03 07:16:41][instance 0]: 22 滑翔伞 / Parasol — 持有时减缓下落 / 使用上升
+[2026-10-03 07:16:41][asylum]: 23 连斩 / Cleave — 前方4伤害 / 10秒冷却
+[2026-10-03 07:16:41][instance 0]: 23 连斩 / Cleave — 前方4伤害 / 10秒冷却
+[2026-10-03 07:18:09][server]: player is ready. ClientID=2 addr=<{26.35.93.129:55171}> secure=yes
+[2026-10-03 07:18:10][server]: player has entered the game. ClientID=2 addr=<{26.35.93.129:55171}> sixup=0
+[2026-10-03 07:18:10][ddnet]: cid=2 version=20000
+[2026-10-03 07:18:10][game]: team size increased to 3, team='0', ddrteam='0'
+[2026-10-03 07:18:10][game]: ddrteam_join player='2:kghlkjo' team=0 ddrteam='0'
+[2026-10-03 07:18:10][chat]: *** 'kghlkjo' entered and joined the game in Tee Asylum ELIM room 0
+[2026-10-03 07:18:10][game]: team_join player='2:kghlkjo' team=0
+[2026-10-03 07:18:13][chat-command]: 2 used /timeout BZn7eWLNqZ3CpYVM
+[2026-10-03 07:18:16][game]: start match type='Tee Asylum ELIM' teamplay='0' ddrteam='0'
+[2026-10-03 07:18:16][game]: world cleared, ddrteam='0'
+[2026-10-03 07:18:16][asylum]: loadout cid=0 mode=3 items=12,5,20
+[2026-10-03 07:18:16][asylum]: loadout cid=1 mode=3 items=14,5,22
+[2026-10-03 07:18:16][asylum]: loadout cid=2 mode=3 items=0,5,21
+[2026-10-03 07:18:17][chat]: 1:-2:420101: nb/.
+[2026-10-03 07:18:19][asylum]: loadout cid=2 mode=3 items=15,3,20
+[2026-10-03 07:18:40][game]: kill killer='0:101024' victim='2:kghlkjo' weapon=2 special=0
+[2026-10-03 07:18:42][asylum]: loadout cid=2 mode=3 items=15,3,23
+[2026-10-03 07:18:43][chat]: 2:-2:kghlkjo: aywq
+[2026-10-03 07:18:44][chat]: 2:-2:kghlkjo: zssm
+[2026-10-03 07:18:55][game]: kill killer='2:kghlkjo' victim='1:420101' weapon=1 special=0
+[2026-10-03 07:18:57][asylum]: loadout cid=1 mode=3 items=14,3,21
+[2026-10-03 07:18:58][game]: kill killer='2:kghlkjo' victim='0:101024' weapon=1 special=0
+[2026-10-03 07:19:00][asylum]: loadout cid=0 mode=3 items=1,4,11
+[2026-10-03 07:19:03][chat]: 2:-2:kghlkjo: 太神秘了
+[2026-10-03 07:19:11][game]: kill killer='2:kghlkjo' victim='0:101024' weapon=1 special=0
+[2026-10-03 07:19:13][game]: kill killer='2:kghlkjo' victim='2:kghlkjo' weapon=-2 special=0
+[2026-10-03 07:19:13][asylum]: loadout cid=0 mode=3 items=0,7,20
+[2026-10-03 07:19:15][asylum]: loadout cid=2 mode=3 items=2,7,20
+[2026-10-03 07:19:36][game]: kill killer='2:kghlkjo' victim='0:101024' weapon=3 special=0
+[2026-10-03 07:19:38][chat]: 0:-2:101024: nb
+[2026-10-03 07:19:42][console]: No such command: login.
+[2026-10-03 07:19:42][chat-command]: 2 used /login bC6c28c6
+[2026-10-03 07:19:42][game]: kill killer='2:kghlkjo' victim='2:kghlkjo' weapon=-2 special=0
+[2026-10-03 07:19:42][asylum]: [Tee Asylum ELIM] 420101 获胜！最后存活者
+[2026-10-03 07:19:49][game]: start match type='Tee Asylum ELIM' teamplay='0' ddrteam='0'
+[2026-10-03 07:19:49][game]: world cleared, ddrteam='0'
+[2026-10-03 07:19:49][team]: game controller 0 is deleted
+[2026-10-03 07:19:49][console]: executing 'room_config/modes/asylum_jgn.rcfg'
+[2026-10-03 07:19:49][instance 0]: executing 'room_config/modes/asylum_jgn.rcfg'
+[2026-10-03 07:19:49][console]: executing 'room_config/asylum-common.rcfg'
+[2026-10-03 07:19:49][instance 0]: executing 'room_config/asylum-common.rcfg'
+[2026-10-03 07:19:49][console]: executing 'room_config/lobby.rcfg'
+[2026-10-03 07:19:49][instance 0]: executing 'room_config/lobby.rcfg'
+[2026-10-03 07:19:49][team]: game controller 0 is created
+[2026-10-03 07:19:49][game]: team size increased to 1, team='0', ddrteam='0'
+[2026-10-03 07:19:49][game]: ddrteam_join player='0:101024' team=0 ddrteam='0'
+[2026-10-03 07:19:49][game]: team size increased to 2, team='0', ddrteam='0'
+[2026-10-03 07:19:49][game]: ddrteam_join player='1:420101' team=0 ddrteam='0'
+[2026-10-03 07:19:49][game]: start match type='Tee Asylum JGN' teamplay='0' ddrteam='0'
+[2026-10-03 07:19:49][game]: team size increased to 3, team='0', ddrteam='0'
+[2026-10-03 07:19:49][game]: ddrteam_join player='2:kghlkjo' team=0 ddrteam='0'
+[2026-10-03 07:19:49][game]: start match type='Tee Asylum JGN' teamplay='0' ddrteam='0'
+[2026-10-03 07:19:49][game]: world cleared, ddrteam='0'
+[2026-10-03 07:19:50][asylum]: loadout cid=0 mode=5 items=15,18,20
+[2026-10-03 07:19:50][asylum]: loadout cid=1 mode=5 items=13,17,10
+[2026-10-03 07:19:50][asylum]: loadout cid=2 mode=5 items=2,7,22
+[2026-10-03 07:20:13][chat]: 0:-2:101024: 来看看能不能打队友
+[2026-10-03 07:20:47][game]: kill killer='0:101024' victim='2:kghlkjo' weapon=3 special=0
+[2026-10-03 07:20:49][asylum]: loadout cid=2 mode=5 items=14,7,11
+[2026-10-03 07:20:59][chat]: 0:-2:101024: nb这个火箭筒有点神秘
+[2026-10-03 07:21:02][game]: kill killer='2:kghlkjo' victim='2:kghlkjo' weapon=3 special=0
+[2026-10-03 07:21:04][asylum]: loadout cid=2 mode=5 items=15,5,9
+[2026-10-03 07:21:12][game]: kill killer='0:101024' victim='0:101024' weapon=-1 special=0
+[2026-10-03 07:21:12][asylum]: [Tee Asylum JGN] 挑战者获胜！巨人已被击败或退出。
+[2026-10-03 07:21:14][chat]: 2:-2:kghlkjo: 太神秘
+[2026-10-03 07:21:15][chat]: 0:-2:101024: nb/
+[2026-10-03 07:21:19][game]: start match type='Tee Asylum JGN' teamplay='0' ddrteam='0'
+[2026-10-03 07:21:19][game]: world cleared, ddrteam='0'
+[2026-10-03 07:21:19][asylum]: loadout cid=0 mode=5 items=13,18,21
+[2026-10-03 07:21:19][asylum]: loadout cid=1 mode=5 items=0,7,10
+[2026-10-03 07:21:19][asylum]: loadout cid=2 mode=5 items=15,18,20
+[2026-10-03 07:21:23][chat]: 2:-2:kghlkjo: 来加点其他模式的武器
+[2026-10-03 07:21:29][chat]: 0:-2:101024: 来搞一个显示具体血量的
+[2026-10-03 07:21:38][asylum]: loadout cid=0 mode=5 items=13,4,8
+[2026-10-03 07:22:14][game]: kill killer='2:kghlkjo' victim='0:101024' weapon=3 special=0
+[2026-10-03 07:22:16][asylum]: loadout cid=0 mode=5 items=13,16,11
+[2026-10-03 07:22:37][game]: kill killer='2:kghlkjo' victim='0:101024' weapon=3 special=0
+[2026-10-03 07:22:39][asylum]: loadout cid=0 mode=5 items=1,6,21
+[2026-10-03 07:22:51][asylum]: loadout cid=0 mode=5 items=13,16,10
+[2026-10-03 07:22:52][game]: kill killer='2:kghlkjo' victim='0:101024' weapon=3 special=0
+[2026-10-03 07:22:57][game]: kill killer='2:kghlkjo' victim='2:kghlkjo' weapon=-2 special=0
+[2026-10-03 07:22:57][asylum]: [Tee Asylum JGN] 挑战者获胜！巨人已被击败或退出。
+[2026-10-03 07:23:00][chat]: 1:-2:420101: jm
+[2026-10-03 07:23:04][game]: start match type='Tee Asylum JGN' teamplay='0' ddrteam='0'
+[2026-10-03 07:23:04][game]: world cleared, ddrteam='0'
+[2026-10-03 07:23:04][asylum]: loadout cid=0 mode=5 items=12,6,8
+[2026-10-03 07:23:04][asylum]: loadout cid=1 mode=5 items=15,18,20
+[2026-10-03 07:23:04][asylum]: loadout cid=2 mode=5 items=2,4,8
+[2026-10-03 07:23:05][chat]: 1:-2:420101: 来更新
+[2026-10-03 07:23:08][chat]: 2:-2:kghlkjo: 这个武器有点一般
+[2026-10-03 07:23:13][chat]: 2:-2:kghlkjo: 来加点大神创意武器
+[2026-10-03 07:23:30][chat]: 1:-2:420101: 来给充能武器加入
+[2026-10-03 07:23:40][game]: kill killer='2:kghlkjo' victim='1:420101' weapon=1 special=0
+[2026-10-03 07:23:40][asylum]: [Tee Asylum JGN] 挑战者获胜！巨人已被击败或退出。
+[2026-10-03 07:23:47][game]: start match type='Tee Asylum JGN' teamplay='0' ddrteam='0'
+[2026-10-03 07:23:47][game]: world cleared, ddrteam='0'
+[2026-10-03 07:23:47][asylum]: loadout cid=0 mode=5 items=1,3,11
+[2026-10-03 07:23:47][asylum]: loadout cid=1 mode=5 items=15,18,20
+[2026-10-03 07:23:47][asylum]: loadout cid=2 mode=5 items=0,5,22
+[2026-10-03 07:23:51][game]: kill killer='1:420101' victim='1:420101' weapon=-3 special=0
+[2026-10-03 07:23:51][game]: team_join player='1:420101' team=0->-1
+[2026-10-03 07:23:51][game]: team size decreased to 2, team='0', ddrteam='0'
+[2026-10-03 07:23:51][asylum]: [Tee Asylum JGN] 挑战者获胜！巨人已被击败或退出。
+[2026-10-03 07:23:58][game]: start match type='Tee Asylum JGN' teamplay='0' ddrteam='0'
+[2026-10-03 07:23:58][game]: world cleared, ddrteam='0'
+[2026-10-03 07:23:59][asylum]: loadout cid=0 mode=5 items=15,18,20
+[2026-10-03 07:23:59][asylum]: loadout cid=2 mode=5 items=0,5,11
+[2026-10-03 07:24:26][game]: kill killer='2:kghlkjo' victim='0:101024' weapon=2 special=0
+[2026-10-03 07:24:26][asylum]: [Tee Asylum JGN] 挑战者获胜！巨人已被击败或退出。
+[2026-10-03 07:24:33][game]: start match type='Tee Asylum JGN' teamplay='0' ddrteam='0'
+[2026-10-03 07:24:33][game]: world cleared, ddrteam='0'
+[2026-10-03 07:24:33][asylum]: loadout cid=0 mode=5 items=1,17,23
+[2026-10-03 07:24:33][asylum]: loadout cid=2 mode=5 items=15,18,20
+[2026-10-03 07:24:48][chat]: 1:-2:420101: 来让激光拼一个武器
+[2026-10-03 07:24:52][game]: kill killer='2:kghlkjo' victim='0:101024' weapon=3 special=0
+[2026-10-03 07:24:54][asylum]: loadout cid=0 mode=5 items=0,4,11
+[2026-10-03 07:24:54][chat]: 2:-2:kghlkjo: 不行
+[2026-10-03 07:25:01][chat]: 2:-2:kghlkjo: 有延迟
+[2026-10-03 07:25:06][chat]: 1:-2:420101: nb/
+[2026-10-03 07:25:08][chat]: 2:-2:kghlkjo: 只能搞一个神秘弹丸
+[2026-10-03 07:25:20][chat]: 2:-2:kghlkjo: 显示就用
+[2026-10-03 07:25:24][chat]: 2:-2:kghlkjo: 锤子这些
+[2026-10-03 07:25:33][chat]: 2:-2:kghlkjo: 可以改开火效果什么的
+[2026-10-03 07:25:41][chat]: 1:-2:420101: ky、
+[2026-10-03 07:25:49][game]: kill killer='2:kghlkjo' victim='0:101024' weapon=3 special=0
+[2026-10-03 07:25:51][asylum]: loadout cid=0 mode=5 items=12,18,21
+[2026-10-03 07:25:57][chat]: 2:-2:kghlkjo: 现在的武器太傻了
+[2026-10-03 07:26:11][game]: kill killer='0:101024' victim='0:101024' weapon=-3 special=0
+[2026-10-03 07:26:11][game]: team_join player='0:101024' team=0->-1
+[2026-10-03 07:26:11][game]: team size decreased to 1, team='0', ddrteam='0'
+[2026-10-03 07:26:11][asylum]: [Tee Asylum JGN] kghlkjo 获胜！所有挑战者均已淘汰
+[2026-10-03 07:26:18][game]: world cleared, ddrteam='0'
+[2026-10-03 07:26:18][asylum]: loadout cid=2 mode=5 items=0,6,23
+[2026-10-03 07:26:18][chat]: 1:-2:420101: 来加入当玩家尝试在另一名玩家身后施展W+S动作时，会被击杀，屏幕上会显示一个图像。如果重复三次，会将违规者踢出服务器。
+[2026-10-03 07:26:25][chat]: 1:-2:420101: 😱
+[2026-10-03 07:26:30][chat]: 2:-2:kghlkjo: 神秘
+[2026-10-03 07:26:41][chat]: 2:-2:kghlkjo: ws动作是什么
+[2026-10-03 07:26:50][chat-command]: 2 used /pause
+[2026-10-03 07:27:10][chat]: 1:-2:420101: 前后移动，
+[2026-10-03 07:27:33][chat]: 2:-2:kghlkjo: 哎哟我去
+[2026-10-03 07:27:43][chat]: 2:-2:kghlkjo: 太神秘
+[2026-10-03 07:28:15][chat]: 1:-2:420101: 来有没有上半身冻结
+[2026-10-03 07:28:24][game]: kill killer='2:kghlkjo' victim='2:kghlkjo' weapon=-2 special=0
+[2026-10-03 07:28:26][asylum]: loadout cid=2 mode=5 items=14,7,21
+[2026-10-03 07:28:27][chat]: 1:-2:420101: 用不了武器但是能动
+[2026-10-03 07:28:32][asylum]: loadout cid=2 mode=5 items=12,17,8
+[2026-10-03 07:29:29][chat]: 2:-2:kghlkjo: 我感觉可以产靠infclass啥的
+[2026-10-03 07:29:59][chat]: 1:-2:420101: lai
+[2026-10-03 07:30:15][chat]: 1:-2:420101: ZS直接来参考
+[2026-10-03 07:30:26][game]: kill killer='2:kghlkjo' victim='2:kghlkjo' weapon=-3 special=0
+[2026-10-03 07:30:26][team]: game controller 0 is deleted
+[2026-10-03 07:30:26][console]: executing 'room_config/modes/asylum_zs.rcfg'
+[2026-10-03 07:30:26][instance 0]: executing 'room_config/modes/asylum_zs.rcfg'
+[2026-10-03 07:30:26][console]: executing 'room_config/asylum-common.rcfg'
+[2026-10-03 07:30:26][instance 0]: executing 'room_config/asylum-common.rcfg'
+[2026-10-03 07:30:26][console]: executing 'room_config/lobby.rcfg'
+[2026-10-03 07:30:26][instance 0]: executing 'room_config/lobby.rcfg'
+[2026-10-03 07:30:26][team]: game controller 0 is created
+[2026-10-03 07:30:26][game]: ddrteam_join player='0:101024' team=-1 ddrteam='0'
+[2026-10-03 07:30:26][game]: ddrteam_join player='1:420101' team=-1 ddrteam='0'
+[2026-10-03 07:30:26][game]: team size increased to 1, team='0', ddrteam='0'
+[2026-10-03 07:30:26][game]: ddrteam_join player='2:kghlkjo' team=0 ddrteam='0'
+[2026-10-03 07:30:26][game]: world cleared, ddrteam='0'
+[2026-10-03 07:30:27][asylum]: loadout cid=2 mode=4 items=1,6,20
+[2026-10-03 07:30:29][game]: team_join player='1:420101' team=-1->0
+[2026-10-03 07:30:29][game]: team size increased to 2, team='0', ddrteam='0'
+[2026-10-03 07:30:29][game]: start match type='Tee Asylum ZS' teamplay='0' ddrteam='0'
+[2026-10-03 07:30:29][game]: world cleared, ddrteam='0'
+[2026-10-03 07:30:29][asylum]: loadout cid=1 mode=4 items=12,18,9
+[2026-10-03 07:30:29][asylum]: loadout cid=2 mode=4 items=1,9,23
+[2026-10-03 07:30:33][game]: team_join player='0:101024' team=-1->0
+[2026-10-03 07:30:33][game]: team size increased to 3, team='0', ddrteam='0'
+[2026-10-03 07:30:46][game]: kill killer='2:kghlkjo' victim='1:420101' weapon=0 special=0
+[2026-10-03 07:30:46][asylum]: [Tee Asylum ZS] 感染者获胜！所有生还者均已感染或退出
+[2026-10-03 07:30:48][chat]: 2:-2:kghlkjo: 是什么
+[2026-10-03 07:30:53][game]: start match type='Tee Asylum ZS' teamplay='0' ddrteam='0'
+[2026-10-03 07:30:53][game]: world cleared, ddrteam='0'
+[2026-10-03 07:30:54][asylum]: loadout cid=0 mode=4 items=1,9,23
+[2026-10-03 07:30:54][asylum]: loadout cid=1 mode=4 items=15,17,11
+[2026-10-03 07:30:54][asylum]: loadout cid=2 mode=4 items=0,4,8
+[2026-10-03 07:30:59][chat]: 1:-2:420101: nb有点神秘
+[2026-10-03 07:31:14][chat]: 1:-2:420101: 这个队伍显示一样的
+[2026-10-03 07:31:44][chat]: 2:-2:kghlkjo: roblox的武器实现都不太一样 来参考一些teeworldsmod的武器
+[2026-10-03 07:31:56][chat]: 0:-2:101024: lai/
+[2026-10-03 07:32:12][chat]: 2:-2:kghlkjo: 来搞个超级榴弹
+[2026-10-03 07:32:13][chat]: 2:-2:kghlkjo: 哎哟我去
+[2026-10-03 07:32:19][chat]: 0:-2:101024: 列六
+[2026-10-03 07:32:26][chat]: 2:-2:kghlkjo: 分裂扭蛋
+[2026-10-03 07:32:38][game]: kill killer='2:kghlkjo' victim='0:101024' weapon=1 special=0
+[2026-10-03 07:32:40][asylum]: loadout cid=0 mode=4 items=1,9,23
+[2026-10-03 07:33:12][game]: kill killer='2:kghlkjo' victim='0:101024' weapon=1 special=0
+[2026-10-03 07:33:14][asylum]: loadout cid=0 mode=4 items=1,9,23
+[2026-10-03 07:34:00][game]: kill killer='2:kghlkjo' victim='0:101024' weapon=1 special=0
+[2026-10-03 07:34:02][asylum]: loadout cid=0 mode=4 items=1,9,23
+[2026-10-03 07:34:12][server]: client dropped. cid=2 addr=<{26.35.93.129:55171}> reason=''
+[2026-10-03 07:34:12][game]: ddrteam_leave player='2:kghlkjo' ddrteam='0'
+[2026-10-03 07:34:12][game]: team size decreased to 2, team='0', ddrteam='0'
+[2026-10-03 07:34:12][game]: kill killer='2:kghlkjo' victim='2:kghlkjo' weapon=-3 special=0
+[2026-10-03 07:34:12][chat]: *** 'kghlkjo' has left the game
+[2026-10-03 07:34:12][game]: leave player='2:kghlkjo'
+[2026-10-03 07:34:27][game]: kill killer='1:420101' victim='1:420101' weapon=-3 special=0
+[2026-10-03 07:34:27][game]: team_join player='1:420101' team=0->-1
+[2026-10-03 07:34:27][game]: team size decreased to 1, team='0', ddrteam='0'
+[2026-10-03 07:34:27][asylum]: [Tee Asylum ZS] 感染者获胜！所有生还者均已感染或退出
+[2026-10-03 07:34:34][game]: world cleared, ddrteam='0'
+[2026-10-03 07:34:35][asylum]: loadout cid=0 mode=4 items=14,5,22
+[2026-10-03 07:34:36][server]: client dropped. cid=1 addr=<{26.247.50.255:59028}> reason=''
+[2026-10-03 07:34:36][game]: ddrteam_leave player='1:420101' ddrteam='0'
+[2026-10-03 07:34:36][chat]: *** '420101' has left the game
+[2026-10-03 07:34:36][game]: leave player='1:420101'
+[2026-10-03 07:34:36][server]: client dropped. cid=0 addr=<{26.247.50.255:59026}> reason=''
+[2026-10-03 07:34:36][game]: ddrteam_leave player='0:101024' ddrteam='0'
+[2026-10-03 07:34:36][game]: team size decreased to 0, team='0', ddrteam='0'
+[2026-10-03 07:34:36][game]: kill killer='0:101024' victim='0:101024' weapon=-3 special=0
+[2026-10-03 07:34:36][chat]: *** '101024' has left the game
+[2026-10-03 07:34:36][game]: leave player='0:101024'
+[2026-10-03 07:38:01][server]: player is ready. ClientID=0 addr=<{26.247.50.255:59026}> secure=yes
+[2026-10-03 07:38:03][server]: player has entered the game. ClientID=0 addr=<{26.247.50.255:59026}> sixup=0
+[2026-10-03 07:38:03][ddnet]: cid=0 version=20000
+[2026-10-03 07:38:03][game]: team size increased to 1, team='0', ddrteam='0'
+[2026-10-03 07:38:03][game]: ddrteam_join player='0:101024' team=0 ddrteam='0'
+[2026-10-03 07:38:03][chat]: *** '101024' entered and joined the game in Tee Asylum ZS room 0
+[2026-10-03 07:38:03][game]: team_join player='0:101024' team=0
+[2026-10-03 07:38:03][asylum]: loadout cid=0 mode=4 items=1,7,9
+[2026-10-03 07:38:04][console]: No such command: telecursor.
+[2026-10-03 07:38:04][chat-command]: 0 used /telecursor
+[2026-10-03 07:38:05][console]: No such command: telecursor.
+[2026-10-03 07:38:05][chat-command]: 0 used /telecursor
+[2026-10-03 07:38:06][chat-command]: 0 used /timeout abN8Yc8YTAN2aU6V
+[2026-10-03 07:38:10][info]: DDNet PvP Mod. Version: 0.6.4, 15.4p
+[2026-10-03 07:38:10][info]: Git revision hash: 1dbbee855c2e03e7
+[2026-10-03 07:38:10][info]: Official site: DDNet.tw
+[2026-10-03 07:38:10][info]: For more info: /cmdlist
+[2026-10-03 07:38:10][chat-command]: 0 used /info
+[2026-10-03 07:38:14][console]: all, c, cmdlist, converse, create, credits, dnd, emote, eyeemote, help, info, invite, join, list, lock, me, pause, r, ready, room, rules, setting, showothers, spec, team, timeout, unlock, w, whisper
+[2026-10-03 07:38:14][chat-command]: 0 used /cmdlist
+[2026-10-03 07:38:18][info]: DDNet PvP Mod. Version: 0.6.4, 15.4p
+[2026-10-03 07:38:18][info]: Git revision hash: 1dbbee855c2e03e7
+[2026-10-03 07:38:18][info]: Official site: DDNet.tw
+[2026-10-03 07:38:18][info]: For more info: /cmdlist
+[2026-10-03 07:38:18][chat-command]: 0 used /info
+[2026-10-03 07:41:24][game]: kill killer='0:101024' victim='0:101024' weapon=-3 special=0
+[2026-10-03 07:41:24][game]: team_join player='0:101024' team=0->-1
+[2026-10-03 07:41:24][game]: team size decreased to 0, team='0', ddrteam='0'
+[2026-10-03 07:42:01][server]: client dropped. cid=0 addr=<{26.247.50.255:59026}> reason=''
+[2026-10-03 07:42:01][game]: ddrteam_leave player='0:101024' ddrteam='0'
+[2026-10-03 07:42:01][chat]: *** '101024' has left the game
+[2026-10-03 07:42:01][game]: leave player='0:101024'
